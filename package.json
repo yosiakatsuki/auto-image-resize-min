@@ -1,0 +1,29 @@
+{
+  "name": "auto-image-resize-min",
+  "version": "1.0.0",
+  "description": "画像ファイルの自動リサイズと圧縮",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-image-resize": "^0.10.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-watch": "^4.3.10",
+    "imagemin-pngquant": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosiakatsuki/auto-image-resize-min.git"
+  },
+  "author": "yosiakatsuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosiakatsuki/auto-image-resize-min/issues"
+  },
+  "homepage": "https://github.com/yosiakatsuki/auto-image-resize-min#readme"
+}
